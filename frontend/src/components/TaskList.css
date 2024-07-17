@@ -1,0 +1,19 @@
+/* TaskList.css */
+
+.task-list-container {
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .tasks {
+    display: grid;
+    grid-gap: 10px;
+  }
+  
+  .tasks h2 {
+    margin-bottom: 10px;
+  }
+  .task-list-container h2{
+    text-align: center;
+  }
+  
